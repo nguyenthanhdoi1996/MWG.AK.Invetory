@@ -15,7 +15,6 @@ namespace MWG.AK.Inventory.Context
             optionsBuilder.UseNpgsql(AppSettings.ConnectionStringPHA);
         }
 
-        public DbSet<system_eventlog> system_eventlog { get; set; }
         public DbSet<OutputVoucher> OutputVoucher { get; set; }
     }
 }
