@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xswRTUHXQb935udcExAI+OvSC9hmrzz4ZyX/nLrU1ZzjUa3+GLM4rxwuefLqY9CUjdbRTWoE2VQvnNCWMnQ0bQ==",
+  "success": true,
+  "projectFilePath": "D:\\Source_Code\\TGDD\\MWG.AK.Inventory\\MWG.AK.Inventory.Common\\MWG.AK.Inventory.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\THIS PC\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\THIS PC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\THIS PC\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

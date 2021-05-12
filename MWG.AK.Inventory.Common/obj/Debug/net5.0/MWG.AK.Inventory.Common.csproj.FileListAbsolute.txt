@@ -1,0 +1,12 @@
+D:\Source_Code\TGDD\MWG.AK.Inventory\MWG.AK.Inventory.Common\bin\Debug\net5.0\MWG.AK.Inventory.Common.deps.json
+D:\Source_Code\TGDD\MWG.AK.Inventory\MWG.AK.Inventory.Common\bin\Debug\net5.0\MWG.AK.Inventory.Common.dll
+D:\Source_Code\TGDD\MWG.AK.Inventory\MWG.AK.Inventory.Common\bin\Debug\net5.0\ref\MWG.AK.Inventory.Common.dll
+D:\Source_Code\TGDD\MWG.AK.Inventory\MWG.AK.Inventory.Common\bin\Debug\net5.0\MWG.AK.Inventory.Common.pdb
+D:\Source_Code\TGDD\MWG.AK.Inventory\MWG.AK.Inventory.Common\obj\Debug\net5.0\MWG.AK.Inventory.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source_Code\TGDD\MWG.AK.Inventory\MWG.AK.Inventory.Common\obj\Debug\net5.0\MWG.AK.Inventory.Common.AssemblyInfoInputs.cache
+D:\Source_Code\TGDD\MWG.AK.Inventory\MWG.AK.Inventory.Common\obj\Debug\net5.0\MWG.AK.Inventory.Common.AssemblyInfo.cs
+D:\Source_Code\TGDD\MWG.AK.Inventory\MWG.AK.Inventory.Common\obj\Debug\net5.0\MWG.AK.Inventory.Common.csproj.CoreCompileInputs.cache
+D:\Source_Code\TGDD\MWG.AK.Inventory\MWG.AK.Inventory.Common\obj\Debug\net5.0\MWG.AK.Inventory.Common.dll
+D:\Source_Code\TGDD\MWG.AK.Inventory\MWG.AK.Inventory.Common\obj\Debug\net5.0\ref\MWG.AK.Inventory.Common.dll
+D:\Source_Code\TGDD\MWG.AK.Inventory\MWG.AK.Inventory.Common\obj\Debug\net5.0\MWG.AK.Inventory.Common.pdb
+D:\Source_Code\TGDD\MWG.AK.Inventory\MWG.AK.Inventory.Common\obj\Debug\net5.0\MWG.AK.Inventory.Common.csprojAssemblyReference.cache
