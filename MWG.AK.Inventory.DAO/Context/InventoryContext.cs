@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MWG.AK.Inventory.BO.AggregatesModel;
-using MWG.AK.Inventory.DAO.Entities;
 
 namespace MWG.AK.Inventory.Context
 {

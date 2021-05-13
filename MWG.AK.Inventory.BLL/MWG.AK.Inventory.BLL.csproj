@@ -5,6 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Application\z\**" />
+    <EmbeddedResource Remove="Application\z\**" />
+    <None Remove="Application\z\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="MediatR" Version="9.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.13" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.13">
@@ -17,10 +23,6 @@
   <ItemGroup>
     <ProjectReference Include="..\MWG.AK.Inventory.BO\MWG.AK.Inventory.BO.csproj" />
     <ProjectReference Include="..\MWG.AK.Inventory.DAO\MWG.AK.Inventory.DAO.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Application\z\" />
   </ItemGroup>
 
 </Project>
